@@ -1,6 +1,6 @@
 package Aula08;
 
-public class Radio {
+public class Radio implements InterRadio {
     private float estacao;
     private boolean ligado;
 
